@@ -15,5 +15,5 @@ The app requires Internet access, as the list of books is retrieved from the Goo
 
 ## Running Locally
 
-1. `git clone` this repository down to your local machine, then change into the local `gbooksapp` directory.
+1. `git clone` this repository down to your local machine, then change into the local `libri` directory.
 2. Start the local server with `rails s`.
